@@ -79,7 +79,7 @@ public class PlagueInc extends JPanel implements Runnable
 		frame.add(plagueinc);
 		frame.pack();
 		
-		frame.setTitle("Plague Inc.");
+		frame.setTitle("Bad Plague Inc.");
 		
 		Dimension size = new Dimension(WIDTH, HEIGHT);
 		frame.setSize(size);
